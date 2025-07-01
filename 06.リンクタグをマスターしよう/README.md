@@ -16,7 +16,7 @@ HTMLでリンクを作るために使われます。 `a` タグはウェブ上�
 <a href="https://example.com">Exampleサイトへ移動</a>
 ```
 
-この例では「Exampleサイトへ移動」というテキストがリンクとなり、クリックすると https://example.comに移動します。
+この例では「Exampleサイトへ移動」というテキストがリンクとなり、クリックすると https://example.com に移動します。
 
 <img src="https://github.com/user-attachments/assets/060be733-e656-48a1-9ae5-d17fd3086378" width=300>
 
@@ -76,4 +76,3 @@ git add .
 git commit -m "リンクの作成"
 git push origin main
 ```
-
